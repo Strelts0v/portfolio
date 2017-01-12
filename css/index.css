@@ -1,0 +1,29 @@
+.author{
+  font-family: Century Gothic;
+}
+
+.intro-header{
+  position: relative;
+  color: white !important;
+  padding-top: 200px !important;
+  padding-bottom: 100px !important;
+  text-align: center;
+  background: url("http://www.hdoboi.org/pic/201308/1920x1080/hdoboi.org-42435.jpg") no-repeat center;
+  background-size: cover;
+}
+
+#about{
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-image: url("../img/banner-bg.jpg");
+}
+
+#portfolio{
+  background: orange;
+  padding: 50px !important;
+}
+
+#contacts{
+  background: url("https://www.livelib.ru/reader/kitnes/o/jg7vg624/o-o.jpeg");
+}
